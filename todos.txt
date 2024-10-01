@@ -1,0 +1,4 @@
+wake up
+sleep
+pray
+we just made a default arg
