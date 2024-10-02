@@ -30,3 +30,5 @@ window = sg.Window('Convertor', layout=[[label1, input_box1],
                                         [convert_button]])
 window.read()
 window.close()
+
+print('We are making progress')
